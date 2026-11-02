@@ -1,0 +1,6 @@
+{
+  "name": "Talking Jevin",
+  "description": "Game virtual pet interaktif Talking Jevin dan temannya Sky dengan suara, mini-game, dunia permen/bajak laut/bawah laut, dan gacha.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
